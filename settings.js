@@ -51,11 +51,7 @@ global.fkontak = {
 		participant: '0@s.whatsapp.net',
 		remoteJid: 'status@broadcast'
 	},
-	message: {
-		contactMessage: {
-			displayName: `Ellen-Joe Bot`,
-			vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;Ellen-Joe Bot;;;\nFN:Ellen-Joe Bot\nitem1.TEL;waid=1234567890:1234567890\nitem1.X-ABLabel:Bot\nEND:VCARD`
-		}
+
 	}
 };
 
