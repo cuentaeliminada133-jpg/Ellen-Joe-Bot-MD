@@ -82,13 +82,13 @@ global.avatar = 'https://qu.ax/RYjEw.jpeg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/C5mcdeiWkO8DkcCAR7GZJM'
-global.comunidad1 = 'https://chat.whatsapp.com/K2CPrOTksiA36SW6k41yuR'
-global.channel = 'https://whatsapp.com/channel/0029VbAuMiNCBtxOKcBfw71x'
-global.channel2 = 'https://whatsapp.com/channel/0029VbAuMiNCBtxOKcBfw71x'
-global.md = 'https://github.com/nevi-dev/Ellen-Joe-Bot-MD'
-global.correo = 'nevijose4@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VbAuMiNCBtxOKcBfw71x';
+global.gp1 = ''
+global.comunidad1 = ''
+global.channel = ''
+global.channel2 = ''
+global.md = ''
+global.correo = ''
+global.cn ='';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
